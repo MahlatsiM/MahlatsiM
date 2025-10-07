@@ -2,7 +2,7 @@
 <h4 align="center">A Data Scientist and BSc. (Hons) Data Science Student from South Africa</h3>
 
 ## 💫 About Me:
-I am a recent **Data Science graduate (2025)** and **Bachelor of Science (Honours)** candidate, passionate about turning data into actionable insights.
+I am a recent **Data Science graduate (2025)** and **Bachelor of Science (Honours)** candidate.
 I specialize in **machine learning, reporting, and process optimization**, with hands-on experience in building **interactive dashboards**, and **AI-driven solutions** that solve real-world problems.<br>  
 🔭 I’m currently working on Forecasting Car Sales in South Africa Using Search Data with Explainable AI, and a Campus Safety Monitoring System<br>
 🌱 I’m currently learning Streamlit, Hadoop, and PostgreSQL<br>💬 Ask me about Data Science, Machine Learning, and Cars
