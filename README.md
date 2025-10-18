@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahlatsi Mashilo</h1>
+<h1 align="center">Hi, I'm Mahlatsi Mashilo</h1>
 <h4 align="center">A Data Scientist and BSc. (Hons) Data Science Student from South Africa</h3>
 
 ## About Me:
